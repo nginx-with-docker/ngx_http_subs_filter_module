@@ -17,11 +17,24 @@ a filter module which can do both regular expression and fixed string substituti
     </thead>
     <tbody>
         <tr>
+            <td>1.21.1</td>
+            <td>master (2019.08)</td>
+            <td><ul>
+                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.1-subs-filter-master</li>
+                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.1-subs-filter-master-alpine</li>
+            </ul></td>
+        </tr>
+        <tr>
+            <td>1.21.1</td>
+            <td>0.6.4 (2014.02)</td>
+            <td>The code version is too old, and it is of meaningless to support dynamic construction</td>
+        </tr>
+        <tr>
             <td>1.21.0</td>
             <td>master (2019.08)</td>
             <td><ul>
-                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.0-subs-filter-master</li>
-                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.0-subs-filter-master-alpine</li>
+                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.1-subs-filter-master</li>
+                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.1-subs-filter-master-alpine</li>
             </ul></td>
         </tr>
         <tr>
