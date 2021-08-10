@@ -33,8 +33,8 @@ a filter module which can do both regular expression and fixed string substituti
             <td>1.21.0</td>
             <td>master (2019.08)</td>
             <td><ul>
-                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.1-subs-filter-master</li>
-                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.1-subs-filter-master-alpine</li>
+                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.0-subs-filter-master</li>
+                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.0-subs-filter-master-alpine</li>
             </ul></td>
         </tr>
         <tr>
